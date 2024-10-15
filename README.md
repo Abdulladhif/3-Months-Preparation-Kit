@@ -2,7 +2,7 @@
 
 ## Week 1: Building the Basics
 - [Day 1: Plus Minus](https://medium.com/@Abdulladhif/day-1-mastering-the-plus-minus-challenge-in-java-6290678f90ca)
-- Day 2: Mini-Max Sum
+- [Day 2: Mini-Max Sum](https://medium.com/@Abdulladhif/day-2-solving-the-mini-max-sum-challenge-in-java-23d48d05a270)
 - [Day 3: Time Conversion](https://medium.com/@Abdulladhif/day-3-solving-the-time-conversion-challenge-in-java-ecf5bb06e01f)
 - [Day 4: Breaking the Records](https://medium.com/@Abdulladhif/day-4-solving-the-breaking-records-challenge-in-java-f73264e76b9a)
 - [Day 5: Camel Case 4](https://medium.com/@Abdulladhif/day-5-solving-the-camel-case-challenge-in-java-de8d92c44e24)
